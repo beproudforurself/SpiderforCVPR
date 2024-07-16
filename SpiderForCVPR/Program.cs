@@ -41,7 +41,7 @@ internal class Programm
                 
                 SmtpClient client = new SmtpClient();
                 client.UseDefaultCredentials = false;
-                client.Credentials = new System.Net.NetworkCredential("xxxx@outlook.com", "xxxxxx");
+                client.Credentials = new System.Net.NetworkCredential("xxxx@outlook.com", "app-code");
                 client.Port = 587; // You can use Port 25 if 587 is blocked (mine is!)
                 client.Host = "smtp.office365.com";
                 client.DeliveryMethod = SmtpDeliveryMethod.Network;
