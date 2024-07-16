@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZPG1SZH\\source\\repos\\SpiderForCVPR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6CE9CA-454B-4970-BD4C-AA29293D6C50}|SpiderForCVPR\\SpiderForCVPR.csproj|c:\\users\\zpg1szh\\source\\repos\\spiderforcvpr\\spiderforcvpr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6CE9CA-454B-4970-BD4C-AA29293D6C50}|SpiderForCVPR\\SpiderForCVPR.csproj|solutionrelative:spiderforcvpr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6CE9CA-454B-4970-BD4C-AA29293D6C50}|SpiderForCVPR\\SpiderForCVPR.csproj|C:\\Users\\ZPG1SZH\\source\\repos\\SpiderForCVPR\\spiderforcvpr\\resource\\mailformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6CE9CA-454B-4970-BD4C-AA29293D6C50}|SpiderForCVPR\\SpiderForCVPR.csproj|solutionrelative:spiderforcvpr\\resource\\mailformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6CE9CA-454B-4970-BD4C-AA29293D6C50}|SpiderForCVPR\\SpiderForCVPR.csproj|C:\\Users\\ZPG1SZH\\source\\repos\\SpiderForCVPR\\spiderforcvpr\\spiderforcvpr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B6CE9CA-454B-4970-BD4C-AA29293D6C50}|SpiderForCVPR\\SpiderForCVPR.csproj|solutionrelative:spiderforcvpr\\spiderforcvpr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 135,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailFormat.cs",
+              "DocumentMoniker": "C:\\Users\\ZPG1SZH\\source\\repos\\SpiderForCVPR\\SpiderForCVPR\\resource\\MailFormat.cs",
+              "RelativeDocumentMoniker": "SpiderForCVPR\\resource\\MailFormat.cs",
+              "ToolTip": "C:\\Users\\ZPG1SZH\\source\\repos\\SpiderForCVPR\\SpiderForCVPR\\resource\\MailFormat.cs",
+              "RelativeToolTip": "SpiderForCVPR\\resource\\MailFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T03:02:32.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpiderForCVPR",
+              "DocumentMoniker": "C:\\Users\\ZPG1SZH\\source\\repos\\SpiderForCVPR\\SpiderForCVPR\\SpiderForCVPR.csproj",
+              "RelativeDocumentMoniker": "SpiderForCVPR\\SpiderForCVPR.csproj",
+              "ToolTip": "C:\\Users\\ZPG1SZH\\source\\repos\\SpiderForCVPR\\SpiderForCVPR\\SpiderForCVPR.csproj",
+              "RelativeToolTip": "SpiderForCVPR\\SpiderForCVPR.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T02:48:04.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZPG1SZH\\source\\repos\\SpiderForCVPR\\SpiderForCVPR\\Program.cs",
+              "RelativeDocumentMoniker": "SpiderForCVPR\\Program.cs",
+              "ToolTip": "C:\\Users\\ZPG1SZH\\source\\repos\\SpiderForCVPR\\SpiderForCVPR\\Program.cs",
+              "RelativeToolTip": "SpiderForCVPR\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:42:44.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 135,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 108,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

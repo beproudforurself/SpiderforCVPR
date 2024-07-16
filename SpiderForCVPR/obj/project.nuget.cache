@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3X0ebkcB4MskuD+oAwskmNeyFWw+ZZMG3MuflLeUi8ZZ3xjE7eCb7biLg7oQ+jEPaBbXeua4K2pP8QLb8Tv8iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZPG1SZH\\source\\repos\\SpiderForCVPR\\SpiderForCVPR\\SpiderForCVPR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZPG1SZH\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\ZPG1SZH\\.nuget\\packages\\fluentemail.smtp\\3.0.2\\fluentemail.smtp.3.0.2.nupkg.sha512",
+    "C:\\Users\\ZPG1SZH\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512",
+    "C:\\Users\\ZPG1SZH\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ZPG1SZH\\.nuget\\packages\\restsharp\\111.4.0\\restsharp.111.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
