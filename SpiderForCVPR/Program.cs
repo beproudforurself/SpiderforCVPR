@@ -10,7 +10,7 @@ internal class Programm
     {
         MutiAutospider CVspider = Spiderfactory.CreateSpider("CVPR");
         var msg = CVspider.Spider();
-        CVspider.autoSendEmail("TianJie.Ge@siemens.com", "peiqiZong182@outlook.com", msg,"CV PaperTracking");
+        CVspider.autoSendEmail("xxxx@outlook.com", "xxxx@outlook.com", msg,"CV PaperTracking");
     }
 
     public class MutiAutospider
@@ -34,14 +34,14 @@ internal class Programm
                 MailMessage input = new MailMessage();
                 input.IsBodyHtml = true;
                 input.Subject = subject;
-                input.From = new MailAddress("peiqiZong182@outlook.com");
+                input.From = new MailAddress("xxxx@outlook.com");
                 input.To.Add(new MailAddress(Email_address));
                 input.CC.Add(new MailAddress(CCaddress));
                 input.Body = msg.ToString();
                 
                 SmtpClient client = new SmtpClient();
                 client.UseDefaultCredentials = false;
-                client.Credentials = new System.Net.NetworkCredential("peiqiZong182@outlook.com", "hiaumtepybfccdia");
+                client.Credentials = new System.Net.NetworkCredential("xxxx@outlook.com", "xxxxxx");
                 client.Port = 587; // You can use Port 25 if 587 is blocked (mine is!)
                 client.Host = "smtp.office365.com";
                 client.DeliveryMethod = SmtpDeliveryMethod.Network;
